@@ -63,3 +63,4 @@
 - [x] Application Building <br>
 - [x] Train the model on IBM <br>
 - [x] Data Collection <br>
+- [x] Final Deliverables <br>
