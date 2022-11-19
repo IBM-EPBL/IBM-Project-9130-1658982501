@@ -50,9 +50,16 @@
   <!-- tasks -->
   <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
   
-- [x] Brainstorm and Ideation <br>
-- [x] Problem Statement <br>
-- [x] Empathy Map <br>
-- [x] Assignment 1 <br>
-- [x] Assignment 2  <br>
-- [x] Assignment 3  <br>  
+- [x] Ideation & Brainstorming <br>
+- [x] Project Phase I <br>
+- [x] Project Phase II <br>
+- [x] Assignment <br>  
+- [x] Project Planning <br>
+- [x] Sprint 1 <br>
+- [x] Sprint 2 <br>
+- [x] Sprint 3 <br>
+- [x] Sprint 4 <br>
+- [x] Model Building <br>
+- [x] Application Building <br>
+- [x] Train the model on IBM <br>
+- [x] Data Collection <br>
